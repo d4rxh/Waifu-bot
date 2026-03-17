@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: waifu-bot
+    runtime: waifu-bot
     env: python
     region: oregon
     plan: free
