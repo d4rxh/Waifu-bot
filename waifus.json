@@ -1,0 +1,1423 @@
+[
+  {
+    "name": "Mikasa Ackerman",
+    "anime": "Attack on Titan",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example1.jpg",
+    "quote": "If I can't, then I'll just die. But if I win, I live."
+  },
+  {
+    "name": "Historia Reiss",
+    "anime": "Attack on Titan",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example2.jpg",
+    "quote": "I'm the worst girl in the world."
+  },
+  {
+    "name": "Sasha Braus",
+    "anime": "Attack on Titan",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example3.jpg",
+    "quote": "Meat!"
+  },
+  {
+    "name": "Annie Leonhart",
+    "anime": "Attack on Titan",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example4.jpg",
+    "quote": "I just want to go home."
+  },
+  {
+    "name": "Pieck Finger",
+    "anime": "Attack on Titan",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example5.jpg",
+    "quote": "I've always been this way."
+  },
+  {
+    "name": "Hange Zoë",
+    "anime": "Attack on Titan",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example6.jpg",
+    "quote": "Titans are incredible!"
+  },
+  {
+    "name": "Nezuko Kamado",
+    "anime": "Demon Slayer",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example7.jpg",
+    "quote": "Mmmph!"
+  },
+  {
+    "name": "Shinobu Kocho",
+    "anime": "Demon Slayer",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example8.jpg",
+    "quote": "I can't use powerful attacks, so I kill with poison."
+  },
+  {
+    "name": "Mitsuri Kanroji",
+    "anime": "Demon Slayer",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example9.jpg",
+    "quote": "I want to find someone stronger than me!"
+  },
+  {
+    "name": "Kanao Tsuyuri",
+    "anime": "Demon Slayer",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example10.jpg",
+    "quote": "I'll flip a coin."
+  },
+  {
+    "name": "Makomo",
+    "anime": "Demon Slayer",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example11.jpg",
+    "quote": "Your movements are lacking."
+  },
+  {
+    "name": "Daki",
+    "anime": "Demon Slayer",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example12.jpg",
+    "quote": "I'm so beautiful!"
+  },
+  {
+    "name": "Nami",
+    "anime": "One Piece",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example13.jpg",
+    "quote": "I'll draw a world map!"
+  },
+  {
+    "name": "Nico Robin",
+    "anime": "One Piece",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example14.jpg",
+    "quote": "I want to live!"
+  },
+  {
+    "name": "Boa Hancock",
+    "anime": "One Piece",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example15.jpg",
+    "quote": "I'm beautiful, so I'm forgiven!"
+  },
+  {
+    "name": "Nefertari Vivi",
+    "anime": "One Piece",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example16.jpg",
+    "quote": "I love this country!"
+  },
+  {
+    "name": "Yamato",
+    "anime": "One Piece",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example17.jpg",
+    "quote": "I'm Oden!"
+  },
+  {
+    "name": "Ulti",
+    "anime": "One Piece",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example18.jpg",
+    "quote": "Pay-pay!"
+  },
+  {
+    "name": "Nobara Kugisaki",
+    "anime": "Jujutsu Kaisen",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example19.jpg",
+    "quote": "I'm a beautiful flower!"
+  },
+  {
+    "name": "Maki Zenin",
+    "anime": "Jujutsu Kaisen",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example20.jpg",
+    "quote": "I'll destroy the Zenin clan."
+  },
+  {
+    "name": "Mai Zenin",
+    "anime": "Jujutsu Kaisen",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example21.jpg",
+    "quote": "I hate jujutsu sorcerers."
+  },
+  {
+    "name": "Miwa Kasumi",
+    "anime": "Jujutsu Kaisen",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example22.jpg",
+    "quote": "I'm just useless Miwa."
+  },
+  {
+    "name": "Shoko Ieiri",
+    "anime": "Jujutsu Kaisen",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example23.jpg",
+    "quote": "I can heal anything."
+  },
+  {
+    "name": "Yuki Tsukumo",
+    "anime": "Jujutsu Kaisen",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example24.jpg",
+    "quote": "What kind of woman is your type?"
+  },
+  {
+    "name": "Hinata Hyuga",
+    "anime": "Naruto",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example25.jpg",
+    "quote": "Naruto-kun..."
+  },
+  {
+    "name": "Sakura Haruno",
+    "anime": "Naruto",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example26.jpg",
+    "quote": "I finally caught up to them!"
+  },
+  {
+    "name": "Tsunade",
+    "anime": "Naruto",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example27.jpg",
+    "quote": "I am the Fifth Hokage!"
+  },
+  {
+    "name": "Temari",
+    "anime": "Naruto",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example28.jpg",
+    "quote": "You're such a drag."
+  },
+  {
+    "name": "Ino Yamanaka",
+    "anime": "Naruto",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example29.jpg",
+    "quote": "Sakura, you're my rival!"
+  },
+  {
+    "name": "Kushina Uzumaki",
+    "anime": "Naruto",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example30.jpg",
+    "quote": "Naruto, grow up to be a great ninja!"
+  },
+  {
+    "name": "Konan",
+    "anime": "Naruto",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example31.jpg",
+    "quote": "I'll create a bridge to peace."
+  },
+  {
+    "name": "Tenten",
+    "anime": "Naruto",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example32.jpg",
+    "quote": "I'll become a legendary kunoichi!"
+  },
+  {
+    "name": "Karin",
+    "anime": "Naruto",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example33.jpg",
+    "quote": "Sasuke-kun!"
+  },
+  {
+    "name": "Mei Terumi",
+    "anime": "Naruto",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example34.jpg",
+    "quote": "I'm still single!"
+  },
+  {
+    "name": "Anko Mitarashi",
+    "anime": "Naruto",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example35.jpg",
+    "quote": "Let's have some dango!"
+  },
+  {
+    "name": "Kurenai Yuhi",
+    "anime": "Naruto",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example36.jpg",
+    "quote": "My students are precious to me."
+  },
+  {
+    "name": "Asuna Yuuki",
+    "anime": "Sword Art Online",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example37.jpg",
+    "quote": "Kirito-kun!"
+  },
+  {
+    "name": "Sinon",
+    "anime": "Sword Art Online",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example38.jpg",
+    "quote": "I won't run away anymore."
+  },
+  {
+    "name": "Alice Zuberg",
+    "anime": "Sword Art Online",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example39.jpg",
+    "quote": "I am an Integrity Knight."
+  },
+  {
+    "name": "Rem",
+    "anime": "Re:Zero",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example40.jpg",
+    "quote": "Subaru-kun is my hero!"
+  },
+  {
+    "name": "Emilia",
+    "anime": "Re:Zero",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example41.jpg",
+    "quote": "I'm just Emilia."
+  },
+  {
+    "name": "Ram",
+    "anime": "Re:Zero",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example42.jpg",
+    "quote": "Barusu."
+  },
+  {
+    "name": "Zero Two",
+    "anime": "Darling in the Franxx",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example43.jpg",
+    "quote": "Darling~"
+  },
+  {
+    "name": "Ichigo",
+    "anime": "Darling in the Franxx",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example44.jpg",
+    "quote": "I'll protect everyone!"
+  },
+  {
+    "name": "Miku",
+    "anime": "Darling in the Franxx",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example45.jpg",
+    "quote": "Kokoro is my best friend!"
+  },
+  {
+    "name": "Erza Scarlet",
+    "anime": "Fairy Tail",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example46.jpg",
+    "quote": "I am Titania!"
+  },
+  {
+    "name": "Lucy Heartfilia",
+    "anime": "Fairy Tail",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example47.jpg",
+    "quote": "Open, Gate of the Lion!"
+  },
+  {
+    "name": "Juvia Lockser",
+    "anime": "Fairy Tail",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example48.jpg",
+    "quote": "Gray-sama!"
+  },
+  {
+    "name": "Wendy Marvell",
+    "anime": "Fairy Tail",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example49.jpg",
+    "quote": "I'll protect my friends!"
+  },
+  {
+    "name": "Violet Evergarden",
+    "anime": "Violet Evergarden",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example50.jpg",
+    "quote": "What is love?"
+  },
+  {
+    "name": "Rukia Kuchiki",
+    "anime": "Bleach",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example51.jpg",
+    "quote": "Dance, Sode no Shirayuki!"
+  },
+  {
+    "name": "Orihime Inoue",
+    "anime": "Bleach",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example52.jpg",
+    "quote": "I reject!"
+  },
+  {
+    "name": "Yoruichi Shihoin",
+    "anime": "Bleach",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example53.jpg",
+    "quote": "I'm the Flash Goddess!"
+  },
+  {
+    "name": "Rangiku Matsumoto",
+    "anime": "Bleach",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example54.jpg",
+    "quote": "Let's go drinking!"
+  },
+  {
+    "name": "Winry Rockbell",
+    "anime": "Fullmetal Alchemist",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example55.jpg",
+    "quote": "I'll make you the best automail!"
+  },
+  {
+    "name": "Riza Hawkeye",
+    "anime": "Fullmetal Alchemist",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example56.jpg",
+    "quote": "I'll protect you with my life."
+  },
+  {
+    "name": "Bulma",
+    "anime": "Dragon Ball Z",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example57.jpg",
+    "quote": "I'm a genius!"
+  },
+  {
+    "name": "Android 18",
+    "anime": "Dragon Ball Z",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example58.jpg",
+    "quote": "I'm stronger than you think."
+  },
+  {
+    "name": "Videl",
+    "anime": "Dragon Ball Z",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example59.jpg",
+    "quote": "I can fight too!"
+  },
+  {
+    "name": "Rias Gremory",
+    "anime": "High School DxD",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example60.jpg",
+    "quote": "I'm a Devil Princess."
+  },
+  {
+    "name": "Akeno Himejima",
+    "anime": "High School DxD",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example61.jpg",
+    "quote": "Ara ara~"
+  },
+  {
+    "name": "Koneko Toujou",
+    "anime": "High School DxD",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example62.jpg",
+    "quote": "Nya~"
+  },
+  {
+    "name": "Megumin",
+    "anime": "KonoSuba",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example63.jpg",
+    "quote": "EXPLOSION!"
+  },
+  {
+    "name": "Aqua",
+    "anime": "KonoSuba",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example64.jpg",
+    "quote": "I'm a goddess!"
+  },
+  {
+    "name": "Darkness",
+    "anime": "KonoSuba",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example65.jpg",
+    "quote": "Please punish me!"
+  },
+  {
+    "name": "Mai Sakurajima",
+    "anime": "Bunny Girl Senpai",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example66.jpg",
+    "quote": "I'm not your senpai."
+  },
+  {
+    "name": "Tohru",
+    "anime": "Miss Kobayashi's Dragon Maid",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example67.jpg",
+    "quote": "Kobayashi-san!"
+  },
+  {
+    "name": "Kanna Kamui",
+    "anime": "Miss Kobayashi's Dragon Maid",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example68.jpg",
+    "quote": "Rawr~"
+  },
+  {
+    "name": "Raphtalia",
+    "anime": "The Rising of the Shield Hero",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example69.jpg",
+    "quote": "Naofumi-sama!"
+  },
+  {
+    "name": "Filo",
+    "anime": "The Rising of the Shield Hero",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example70.jpg",
+    "quote": "Master!"
+  },
+  {
+    "name": "Saber",
+    "anime": "Fate/Stay Night",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example71.jpg",
+    "quote": "I am your sword."
+  },
+  {
+    "name": "Rin Tohsaka",
+    "anime": "Fate/Stay Night",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example72.jpg",
+    "quote": "I'm a genius mage!"
+  },
+  {
+    "name": "Sakura Matou",
+    "anime": "Fate/Stay Night",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example73.jpg",
+    "quote": "Senpai..."
+  },
+  {
+    "name": "Ishtar",
+    "anime": "Fate/Grand Order",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example74.jpg",
+    "quote": "I'm a goddess!"
+  },
+  {
+    "name": "C.C.",
+    "anime": "Code Geass",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example75.jpg",
+    "quote": "I grant you the power of kings."
+  },
+  {
+    "name": "Kallen Stadtfeld",
+    "anime": "Code Geass",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example76.jpg",
+    "quote": "I fight for what I believe in!"
+  },
+  {
+    "name": "Holo",
+    "anime": "Spice and Wolf",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example77.jpg",
+    "quote": "I'm Holo the Wise Wolf."
+  },
+  {
+    "name": "Taiga Aisaka",
+    "anime": "Toradora!",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example78.jpg",
+    "quote": "I'm the Palmtop Tiger!"
+  },
+  {
+    "name": "Minori Kushieda",
+    "anime": "Toradora!",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example79.jpg",
+    "quote": "Fighting!"
+  },
+  {
+    "name": "Yui Hirasawa",
+    "anime": "K-On!",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example80.jpg",
+    "quote": "Fuwa fuwa~"
+  },
+  {
+    "name": "Mio Akiyama",
+    "anime": "K-On!",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example81.jpg",
+    "quote": "I'm too shy..."
+  },
+  {
+    "name": "Kurisu Makise",
+    "anime": "Steins;Gate",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example82.jpg",
+    "quote": "I'm not your assistant!"
+  },
+  {
+    "name": "Mayuri Shiina",
+    "anime": "Steins;Gate",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example83.jpg",
+    "quote": "Tuturu~"
+  },
+  {
+    "name": "Hitagi Senjougahara",
+    "anime": "Monogatari Series",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example84.jpg",
+    "quote": "I love you."
+  },
+  {
+    "name": "Shinobu Oshino",
+    "anime": "Monogatari Series",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example85.jpg",
+    "quote": "Ka-ka-ka~"
+  },
+  {
+    "name": "Megumi Tadokoro",
+    "anime": "Food Wars",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example86.jpg",
+    "quote": "I'll do my best!"
+  },
+  {
+    "name": "Erina Nakiri",
+    "anime": "Food Wars",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example87.jpg",
+    "quote": "This is delicious!"
+  },
+  {
+    "name": "Yor Forger",
+    "anime": "Spy x Family",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example88.jpg",
+    "quote": "I'm an assassin."
+  },
+  {
+    "name": "Anya Forger",
+    "anime": "Spy x Family",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example89.jpg",
+    "quote": "Waku waku!"
+  },
+  {
+    "name": "Power",
+    "anime": "Chainsaw Man",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example90.jpg",
+    "quote": "I am Power!"
+  },
+  {
+    "name": "Makima",
+    "anime": "Chainsaw Man",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example91.jpg",
+    "quote": "Be my dog."
+  },
+  {
+    "name": "Kobeni Higashiyama",
+    "anime": "Chainsaw Man",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example92.jpg",
+    "quote": "I'm scared..."
+  },
+  {
+    "name": "Chitoge Kirisaki",
+    "anime": "Nisekoi",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example93.jpg",
+    "quote": "Baka!"
+  },
+  {
+    "name": "Kosaki Onodera",
+    "anime": "Nisekoi",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example94.jpg",
+    "quote": "I... I like you..."
+  },
+  {
+    "name": "Shiro",
+    "anime": "No Game No Life",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example95.jpg",
+    "quote": "Nii... together we are unbeatable."
+  },
+  {
+    "name": "Jibril",
+    "anime": "No Game No Life",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example96.jpg",
+    "quote": "I serve my masters."
+  },
+  {
+    "name": "Shouko Nishimiya",
+    "anime": "A Silent Voice",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example97.jpg",
+    "quote": "I want to help."
+  },
+  {
+    "name": "Mitsuha Miyamizu",
+    "anime": "Your Name",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example98.jpg",
+    "quote": "Who are you?"
+  },
+  {
+    "name": "Chika Fujiwara",
+    "anime": "Kaguya-sama",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example99.jpg",
+    "quote": "Chika dance!"
+  },
+  {
+    "name": "Kaguya Shinomiya",
+    "anime": "Kaguya-sama",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example100.jpg",
+    "quote": "How cute."
+  },
+  {
+    "name": "Ai Hayasaka",
+    "anime": "Kaguya-sama",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example101.jpg",
+    "quote": "Hey hey!"
+  },
+  {
+    "name": "Ochaco Uraraka",
+    "anime": "My Hero Academia",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example102.jpg",
+    "quote": "Plus Ultra!"
+  },
+  {
+    "name": "Momo Yaoyorozu",
+    "anime": "My Hero Academia",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example103.jpg",
+    "quote": "I'll create anything!"
+  },
+  {
+    "name": "Tsuyu Asui",
+    "anime": "My Hero Academia",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example104.jpg",
+    "quote": "Ribbit!"
+  },
+  {
+    "name": "Kyoka Jiro",
+    "anime": "My Hero Academia",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example105.jpg",
+    "quote": "Let's rock!"
+  },
+  {
+    "name": "Mina Ashido",
+    "anime": "My Hero Academia",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example106.jpg",
+    "quote": "Acid is my power!"
+  },
+  {
+    "name": "Nejire Hado",
+    "anime": "My Hero Academia",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example107.jpg",
+    "quote": "So curious!"
+  },
+  {
+    "name": "Faye Valentine",
+    "anime": "Cowboy Bebop",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example108.jpg",
+    "quote": "I'm just a bounty hunter."
+  },
+  {
+    "name": "Revy",
+    "anime": "Black Lagoon",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example109.jpg",
+    "quote": "I'm a killer."
+  },
+  {
+    "name": "Ryuko Matoi",
+    "anime": "Kill la Kill",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example110.jpg",
+    "quote": "Don't lose your way!"
+  },
+  {
+    "name": "Satsuki Kiryuin",
+    "anime": "Kill la Kill",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example111.jpg",
+    "quote": "Fear is freedom!"
+  },
+  {
+    "name": "Yuno Gasai",
+    "anime": "Future Diary",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example112.jpg",
+    "quote": "Yuki is mine!"
+  },
+  {
+    "name": "Tatsumaki",
+    "anime": "One Punch Man",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example113.jpg",
+    "quote": "I'm the strongest esper!"
+  },
+  {
+    "name": "Fubuki",
+    "anime": "One Punch Man",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example114.jpg",
+    "quote": "Join my group!"
+  },
+  {
+    "name": "Yukino Yukinoshita",
+    "anime": "My Teen Romantic Comedy SNAFU",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example115.jpg",
+    "quote": "That's incorrect."
+  },
+  {
+    "name": "Yui Yuigahama",
+    "anime": "My Teen Romantic Comedy SNAFU",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example116.jpg",
+    "quote": "Yahallo!"
+  },
+  {
+    "name": "Yumeko Jabami",
+    "anime": "Kakegurui",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example117.jpg",
+    "quote": "Let's gamble!"
+  },
+  {
+    "name": "Mary Saotome",
+    "anime": "Kakegurui",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example118.jpg",
+    "quote": "I'll win!"
+  },
+  {
+    "name": "Marin Kitagawa",
+    "anime": "My Dress-Up Darling",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example119.jpg",
+    "quote": "You're amazing!"
+  },
+  {
+    "name": "Nagatoro",
+    "anime": "Don't Toy With Me, Miss Nagatoro",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example120.jpg",
+    "quote": "Senpai~"
+  },
+  {
+    "name": "Uzaki Hana",
+    "anime": "Uzaki-chan Wants to Hang Out!",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example121.jpg",
+    "quote": "Sugoi dekai!"
+  },
+  {
+    "name": "Nino Nakano",
+    "anime": "The Quintessential Quintuplets",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example122.jpg",
+    "quote": "I'll make you fall for me!"
+  },
+  {
+    "name": "Miku Nakano",
+    "anime": "The Quintessential Quintuplets",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example123.jpg",
+    "quote": "I love the Sengoku period."
+  },
+  {
+    "name": "Ichika Nakano",
+    "anime": "The Quintessential Quintuplets",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example124.jpg",
+    "quote": "I'm the oldest!"
+  },
+  {
+    "name": "Yotsuba Nakano",
+    "anime": "The Quintessential Quintuplets",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example125.jpg",
+    "quote": "I'll help everyone!"
+  },
+  {
+    "name": "Itsuki Nakano",
+    "anime": "The Quintessential Quintuplets",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example126.jpg",
+    "quote": "I want to eat!"
+  },
+  {
+    "name": "Shouko Komi",
+    "anime": "Komi Can't Communicate",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example127.jpg",
+    "quote": "..."
+  },
+  {
+    "name": "Najimi Osana",
+    "anime": "Komi Can't Communicate",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example128.jpg",
+    "quote": "Everyone's friend!"
+  },
+  {
+    "name": "Shizuka Hiratsuka",
+    "anime": "My Teen Romantic Comedy SNAFU",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example129.jpg",
+    "quote": "I want to get married..."
+  },
+  {
+    "name": "Kurumi Tokisaki",
+    "anime": "Date A Live",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example130.jpg",
+    "quote": "Ara ara~"
+  },
+  {
+    "name": "Tohka Yatogami",
+    "anime": "Date A Live",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example131.jpg",
+    "quote": "Shido!"
+  },
+  {
+    "name": "Origami Tobiichi",
+    "anime": "Date A Live",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example132.jpg",
+    "quote": "I'll protect you."
+  },
+  {
+    "name": "Albedo",
+    "anime": "Overlord",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example133.jpg",
+    "quote": "Ainz-sama!"
+  },
+  {
+    "name": "Shalltear Bloodfallen",
+    "anime": "Overlord",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example134.jpg",
+    "quote": "Arinsu~"
+  },
+  {
+    "name": "Kallen Kozuki",
+    "anime": "Code Geass",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example135.jpg",
+    "quote": "I fight for justice!"
+  },
+  {
+    "name": "Yoko Littner",
+    "anime": "Gurren Lagann",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example136.jpg",
+    "quote": "Believe in yourself!"
+  },
+  {
+    "name": "Nia Teppelin",
+    "anime": "Gurren Lagann",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example137.jpg",
+    "quote": "I believe in Simon!"
+  },
+  {
+    "name": "Celty Sturluson",
+    "anime": "Durarara!!",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example128.jpg",
+    "quote": "[Types on phone]"
+  },
+  {
+    "name": "Anri Sonohara",
+    "anime": "Durarara!!",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example139.jpg",
+    "quote": "I'm scared..."
+  },
+  {
+    "name": "Kanade Tachibana",
+    "anime": "Angel Beats!",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example140.jpg",
+    "quote": "I'm an angel."
+  },
+  {
+    "name": "Yuri Nakamura",
+    "anime": "Angel Beats!",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example141.jpg",
+    "quote": "Fight against God!"
+  },
+  {
+    "name": "Nagisa Furukawa",
+    "anime": "Clannad",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example142.jpg",
+    "quote": "Dango daikazoku~"
+  },
+  {
+    "name": "Kyou Fujibayashi",
+    "anime": "Clannad",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example143.jpg",
+    "quote": "Baka!"
+  },
+  {
+    "name": "Tomoyo Sakagami",
+    "anime": "Clannad",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example144.jpg",
+    "quote": "I'll protect this school!"
+  },
+  {
+    "name": "Haruhi Suzumiya",
+    "anime": "The Melancholy of Haruhi Suzumiya",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example145.jpg",
+    "quote": "I'm God!"
+  },
+  {
+    "name": "Mikuru Asahina",
+    "anime": "The Melancholy of Haruhi Suzumiya",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example146.jpg",
+    "quote": "Classified information!"
+  },
+  {
+    "name": "Yuki Nagato",
+    "anime": "The Melancholy of Haruhi Suzumiya",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example147.jpg",
+    "quote": "..."
+  },
+  {
+    "name": "Index",
+    "anime": "A Certain Magical Index",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example148.jpg",
+    "quote": "Touma!"
+  },
+  {
+    "name": "Misaka Mikoto",
+    "anime": "A Certain Scientific Railgun",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example149.jpg",
+    "quote": "I'm the Railgun!"
+  },
+  {
+    "name": "Kuroko Shirai",
+    "anime": "A Certain Scientific Railgun",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example150.jpg",
+    "quote": "Onee-sama!"
+  },
+  {
+    "name": "Shana",
+    "anime": "Shakugan no Shana",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example151.jpg",
+    "quote": "Urusai! Urusai! Urusai!"
+  },
+  {
+    "name": "Louise Françoise",
+    "anime": "The Familiar of Zero",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example152.jpg",
+    "quote": "I'm not a zero!"
+  },
+  {
+    "name": "Seraphim",
+    "anime": "Is This a Zombie?",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example153.jpg",
+    "quote": "That is not befitting of me."
+  },
+  {
+    "name": "Eucliwood Hellscythe",
+    "anime": "Is This a Zombie?",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example154.jpg",
+    "quote": "[Silent]"
+  },
+  {
+    "name": "Shinka Nibutani",
+    "anime": "Love, Chunibyo & Other Delusions",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example155.jpg",
+    "quote": "That's embarrassing!"
+  },
+  {
+    "name": "Rikka Takanashi",
+    "anime": "Love, Chunibyo & Other Delusions",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example156.jpg",
+    "quote": "Wicked Eye activate!"
+  },
+  {
+    "name": "Mayaka Ibara",
+    "anime": "Hyouka",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example157.jpg",
+    "quote": "I'm curious!"
+  },
+  {
+    "name": "Eru Chitanda",
+    "anime": "Hyouka",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example158.jpg",
+    "quote": "I'm curious!"
+  },
+  {
+    "name": "Inori Yuzuriha",
+    "anime": "Guilty Crown",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example159.jpg",
+    "quote": "Shu..."
+  },
+  {
+    "name": "Ayase Shinomiya",
+    "anime": "Guilty Crown",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example160.jpg",
+    "quote": "I'll fight!"
+  },
+  {
+    "name": "Utaha Kasumigaoka",
+    "anime": "Saekano",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example161.jpg",
+    "quote": "How dull."
+  },
+  {
+    "name": "Eriri Spencer Sawamura",
+    "anime": "Saekano",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example162.jpg",
+    "quote": "Tsundere service!"
+  },
+  {
+    "name": "Megumi Kato",
+    "anime": "Saekano",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example163.jpg",
+    "quote": "I have no presence..."
+  },
+  {
+    "name": "Hestia",
+    "anime": "DanMachi",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example164.jpg",
+    "quote": "Bell-kun!"
+  },
+  {
+    "name": "Ais Wallenstein",
+    "anime": "DanMachi",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example165.jpg",
+    "quote": "Become stronger."
+  },
+  {
+    "name": "Ryuu Lion",
+    "anime": "DanMachi",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example166.jpg",
+    "quote": "I seek revenge."
+  },
+  {
+    "name": "Shizue Izawa",
+    "anime": "That Time I Got Reincarnated as a Slime",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example167.jpg",
+    "quote": "Please save the children."
+  },
+  {
+    "name": "Milim Nava",
+    "anime": "That Time I Got Reincarnated as a Slime",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example168.jpg",
+    "quote": "Bestie!"
+  },
+  {
+    "name": "Shuna",
+    "anime": "That Time I Got Reincarnated as a Slime",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example169.jpg",
+    "quote": "Rimuru-sama!"
+  },
+  {
+    "name": "Shion",
+    "anime": "That Time I Got Reincarnated as a Slime",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example170.jpg",
+    "quote": "I'll cook for you!"
+  },
+  {
+    "name": "Kumoko",
+    "anime": "So I'm a Spider, So What?",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example171.jpg",
+    "quote": "I'm a spider!"
+  },
+  {
+    "name": "Tanya Degurechaff",
+    "anime": "The Saga of Tanya the Evil",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example172.jpg",
+    "quote": "Being X!"
+  },
+  {
+    "name": "Viktoriya Ivanovna Serebryakov",
+    "anime": "The Saga of Tanya the Evil",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example173.jpg",
+    "quote": "Major Degurechaff!"
+  },
+  {
+    "name": "Naofumi Iwatani",
+    "anime": "The Rising of the Shield Hero",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example174.jpg",
+    "quote": "I'm the Shield Hero."
+  },
+  {
+    "name": "Melty Q Melromarc",
+    "anime": "The Rising of the Shield Hero",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example175.jpg",
+    "quote": "I believe in you!"
+  },
+  {
+    "name": "Priestess",
+    "anime": "Goblin Slayer",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example176.jpg",
+    "quote": "I'll support everyone!"
+  },
+  {
+    "name": "Cow Girl",
+    "anime": "Goblin Slayer",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example177.jpg",
+    "quote": "Welcome home!"
+  },
+  {
+    "name": "High Elf Archer",
+    "anime": "Goblin Slayer",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example178.jpg",
+    "quote": "2000 years old!"
+  },
+  {
+    "name": "Guild Girl",
+    "anime": "Goblin Slayer",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example179.jpg",
+    "quote": "New quest!"
+  },
+  {
+    "name": "Altina",
+    "anime": "Alderamin on the Sky",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example180.jpg",
+    "quote": "I'll protect everyone!"
+  },
+  {
+    "name": "Yui",
+    "anime": "Sword Art Online",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example181.jpg",
+    "quote": "Papa! Mama!"
+  },
+  {
+    "name": "Suguha Kirigaya",
+    "anime": "Sword Art Online",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example182.jpg",
+    "quote": "Onii-chan..."
+  },
+  {
+    "name": "Yuuki Konno",
+    "anime": "Sword Art Online",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example183.jpg",
+    "quote": "Let's fight together!"
+  },
+  {
+    "name": "Silica",
+    "anime": "Sword Art Online",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example184.jpg",
+    "quote": "Pina!"
+  },
+  {
+    "name": "Lisbeth",
+    "anime": "Sword Art Online",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example185.jpg",
+    "quote": "I'll forge your sword!"
+  },
+  {
+    "name": "Quinella",
+    "anime": "Sword Art Online",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example186.jpg",
+    "quote": "I am God."
+  },
+  {
+    "name": "Eugeo",
+    "anime": "Sword Art Online",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example187.jpg",
+    "quote": "Kirito!"
+  },
+  {
+    "name": "Beatrice",
+    "anime": "Re:Zero",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example188.jpg",
+    "quote": "I suppose."
+  },
+  {
+    "name": "Felt",
+    "anime": "Re:Zero",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example189.jpg",
+    "quote": "I'm a thief!"
+  },
+  {
+    "name": "Crusch Karsten",
+    "anime": "Re:Zero",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example190.jpg",
+    "quote": "I'll be the next ruler!"
+  },
+  {
+    "name": "Priscilla Barielle",
+    "anime": "Re:Zero",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example191.jpg",
+    "quote": "The world revolves around me!"
+  },
+  {
+    "name": "Echidna",
+    "anime": "Re:Zero",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example192.jpg",
+    "quote": "I'm greedy for knowledge."
+  },
+  {
+    "name": "Satella",
+    "anime": "Re:Zero",
+    "rarity": "Mythic",
+    "image": "https://i.imgur.com/example193.jpg",
+    "quote": "I love you."
+  },
+  {
+    "name": "Petra Leyte",
+    "anime": "Re:Zero",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example194.jpg",
+    "quote": "Subaru-kun!"
+  },
+  {
+    "name": "Frederica Baumann",
+    "anime": "Re:Zero",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example195.jpg",
+    "quote": "I'll protect the mansion!"
+  },
+  {
+    "name": "Elsa Granhiert",
+    "anime": "Re:Zero",
+    "rarity": "Epic",
+    "image": "https://i.imgur.com/example196.jpg",
+    "quote": "I love your bowels~"
+  },
+  {
+    "name": "Pandora",
+    "anime": "Re:Zero",
+    "rarity": "Legendary",
+    "image": "https://i.imgur.com/example197.jpg",
+    "quote": "That didn't happen."
+  },
+  {
+    "name": "Carmilla",
+    "anime": "Re:Zero",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example198.jpg",
+    "quote": "I'm lust."
+  },
+  {
+    "name": "Minerva",
+    "anime": "Re:Zero",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example199.jpg",
+    "quote": "I'll heal everyone!"
+  },
+  {
+    "name": "Sekhmet",
+    "anime": "Re:Zero",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example200.jpg",
+    "quote": "Too troublesome..."
+  },
+  {
+    "name": "Daphne",
+    "anime": "Re:Zero",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example201.jpg",
+    "quote": "I'm hungry..."
+  },
+  {
+    "name": "Typhon",
+    "anime": "Re:Zero",
+    "rarity": "Rare",
+    "image": "https://i.imgur.com/example202.jpg",
+    "quote": "Are you a bad person?"
+  },
+  {
+    "name": "Garfiel Tinsel",
+    "anime": "Re:Zero",
+    "rarity": "Common",
+    "image": "https://i.imgur.com/example203.jpg",
+    "quote": "My amazin' self!"
+  }
+]
