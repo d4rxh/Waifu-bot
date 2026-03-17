@@ -5,7 +5,7 @@ services:
     region: oregon
     plan: free
     buildCommand: pip install -r requirements.txt
-    startCommand: python waifu_bot.py
+    startCommand: python3 waifu_bot.py
     envVars:
       - key: API_ID
         sync: false
